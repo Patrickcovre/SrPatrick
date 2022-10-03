@@ -1,0 +1,149 @@
+
+.delivery {
+    position: absolute;
+    width: 342px;
+    height: 144px;
+    left: 10px;
+    top: 223px;
+    
+    
+    background: #B2DBE8;
+    
+    background-image: url(../img/carrodobob.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+    background-position: 30px;
+    border-radius: 10px;
+    }
+    
+    .titulo {
+    position: absolute;
+    width: 205px;
+    height: 28px;
+    left: 26px;
+    top: 67px;
+    
+    background: rgba(62, 131, 153, 0.88);
+    border-radius: 10px;
+    
+    position: absolute;
+    width: 103px;
+    height: 29px;
+    left: 68px;
+    top: 67px;
+    
+    font-family: 'Jolly Lodger';
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #F5F5F5;
+    }
+    
+    .facaseupedido {
+    position: absolute;
+    width: 205px;
+    height: 28px;
+    left: 56px;
+    top: 96px;
+    
+    background: #B2DBE8;
+    border-radius: 10px;
+    
+    position: absolute;
+    width: 111px;
+    height: 29px;
+    left: 116px;
+    top: 96px;
+    
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: rgba(62, 131, 153, 0.88);
+    
+    }
+    
+    .borda {
+    position: absolute;
+    width: 403px;
+    height: 51px;
+    left: -43px;
+    top: 0px;
+    }
+    
+    .borda3 {
+    position: absolute;
+    width: 305px;
+    height: 28px;
+    left: 20px;
+    top: 125px;
+    
+    background: rgba(62, 131, 153, 0.88);
+    border-radius: 10px;
+    position: absolute;
+    width: 232px;
+    height: 42px;
+    left: 20px;
+    top: 124px;
+    
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #F5F5F5;
+    }
+    
+    .lula {
+    border-radius: 40px;
+    position: absolute;
+    width: 86px;
+    height: 81px;
+    left: 220px;
+    top: 67px;
+    
+    background: #B2DBE8;
+    background-image: url(../img/image55.png);
+    
+    }
+    
+    .barradepesquisa {   
+    position: absolute;
+    width: 342px;
+    height: 40px;
+    left: 9px;
+    top: 175px;
+    
+    
+    background: #5491A4;
+    border-radius: 10px;
+    }
+    .barradepesquisa{
+        background-image: url(../img/image\ 18.png);
+        background-repeat: no-repeat;
+        position: absolute;
+
+    }
+    .pesquisa{
+        position: absolute;
+        font-size: 16px;
+        color: white;
+        width: 143px;
+        height: 29px;
+        left: 100px;
+        top: 10px;
+        
+    }
+    .barradepesquisa:hover{
+        opacity: 0.8;
+    }
