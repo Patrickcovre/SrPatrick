@@ -1,4 +1,7 @@
-
+.fundo{
+    background-image: url(../img/image\ 10\ \(1\)\ \(1\)\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+}
 .delivery {
     position: absolute;
     width: 342px;
