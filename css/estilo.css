@@ -1,21 +1,20 @@
-body{
-    background-image: url(../img/image\ 10\ \(1\)\ \(1\)\ \(1\)\ \(1\).png);
-    background-repeat: no-repeat;
-}
+
 .bordaazul{
     position: absolute;
-width: 403px;
-height: 51px;
-left: 50%;                                                                                          
-top: 0px;
-    background-image: url(../img/Group\ 160.png);
+    width: 100%;
+    height: 51px;
+    left: -43px;
+    top: 0px;
+    
+    background: #172D54;
 }
 
 .delivery {
     position: absolute;
-    width: 342px;
-    height: 144px;
-    left: 50%;
+    width: 100%;
+    height: 300px;
+    left: 1%;
+    right: 1%;
     top: 223px;
     
     
@@ -25,7 +24,7 @@ top: 0px;
     background-repeat: no-repeat;
     background-position-x: left;
     background-position-y: center;
-    background-position: 50%;
+    background-position: 30%;
     border-radius: 10px;
     
     }
@@ -35,7 +34,7 @@ top: 0px;
         border: solid rgba(62, 131, 153, 0.88);;
 width: 76px;
 height: 18px;
-left: 225px;
+left: 50%;
 top: 89px;
 
 background: rgba(62, 131, 153, 0.88);
@@ -45,7 +44,7 @@ border-radius: 10px;
         position: absolute;
 width: 102px;
 height: 29px;
-left: 214px;
+left: 49%;
 top: 31px;
 
 font-family: 'Jolly Lodger';
@@ -60,9 +59,8 @@ color: #5491A4;
     
     .titulo {
     position: relative;
-    width: 205px;
+    width: 60%;
     height: 28px;
-    left: 50%;
     top: 67px;
     
     background: rgba(62, 131, 153, 0.88);
