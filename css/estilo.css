@@ -7,7 +7,7 @@
     position: absolute;
 width: 403px;
 height: 51px;
-left: 0px;
+left: 0px;                                                                                          
 top: 0px;
     background-image: url(../img/Group\ 160.png);
 }
@@ -189,3 +189,32 @@ color: #5491A4;
     .barradepesquisa:hover{
         opacity: 0.8;
     }
+.bordacategoria{
+    position: absolute;
+width: 126px;
+height: 21px;
+left: 20px;
+top: 375px;
+
+background: #5491A4;
+border-radius: 10px;
+}
+.palavracategoria{
+    position: relative;
+    left: 26px;
+color: #F5F5F5;
+
+}
+.quadradoburguer{
+border: solid;
+position: relative;
+width: 68px;
+height: 64px;
+left: 10px;
+top: 10px;
+border-radius: 10px;
+background-color: #B2DBE8
+;
+border-color: transparent;
+}
+
